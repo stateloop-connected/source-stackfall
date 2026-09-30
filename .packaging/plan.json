@@ -1,0 +1,14 @@
+{
+  "build_script": "npm run typecheck && vite build",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "rhdqngo/stackfall",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "8a37593738f3124803781f4e880025f12b6e6361"
+}
